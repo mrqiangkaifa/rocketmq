@@ -48,6 +48,7 @@ public class NamesrvStartup {
     private static CommandLine commandLine = null;
 
     public static void main(String[] args) {
+        //todo 入口
         main0(args);
     }
 
