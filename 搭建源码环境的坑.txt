@@ -1,0 +1,3 @@
+1.拷贝启动脚本里的vm参数在distribution/bin工程下，如mqnamesrv,然后找到/bin/runserver.sh
+2.启动项Environment variables 配置ROCKETMQ_HOME=当前工程目录
+3.重启idea
